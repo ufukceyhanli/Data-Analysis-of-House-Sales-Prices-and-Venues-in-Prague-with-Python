@@ -9,3 +9,5 @@ Prague is one of the most popular cities in Europe with many outstanding views a
 - House prices by municipal parts
 - Number of different types of venues inside 1km radius of the center of municipal parts
 - Cluster municipal parts of Prague based on the venue availablitiy
+
+Ufuk Taner CEYHANLI
