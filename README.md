@@ -12,4 +12,4 @@ Prague is one of the most popular cities in Europe with many outstanding views a
 Jupyter Notebook --> [*Here*](https://github.com/tanerceyhanli/Data-Analysis-of-House-Sales-Prices-and-Venues-in-Prague-with-Python/blob/main/Data-Analysis-of-House-Sales-Prices-and-Venues-in-Prague-with-Python.ipynb) <br>
 
 Ufuk Taner CEYHANLI <br>
-[*tanerceyhanli.github.io*](https://tanerceyhanli.github.io)
+[*https://ufukceyhanli.com*](https://ufukceyhanli.com)
